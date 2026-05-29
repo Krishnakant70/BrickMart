@@ -1,0 +1,6 @@
+{
+  "name": "BrickMart MVP",
+  "description": "A beautiful, responsive front-end MVP for BrickMart e-commerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
